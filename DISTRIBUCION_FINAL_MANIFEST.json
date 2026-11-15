@@ -7,9 +7,12 @@
     "S11": "abbe37da848a0bec9910",
     "S12": "1563fa13ca0d5bdebd2d"
   },
-  "payload_files": 111,
+  "payload_files": 114,
   "sha256": {
+    ".aiassistant/rules/00_course_governance.md": "c6030a9b8bac5c22094dba301fb042e965ec6fde12dcf786f193338b8e1a270d",
     ".github/agents/kai-planeamiento.agent.md": "9d859be6a880a445103f6999cf5d0f3d9921804a7e1dc4581b5e21fe762cf35a",
+    ".github/copilot-instructions.md": "0e1d9d0fa5ea14c6ffe8ad2dfd4e6662798f3e860fae80c986e5700eacc40ec3",
+    "AGENTS.md": "35a08715e22a0eaab9b1b16f2143afe0014b31f9c5e29cc17ff526dfa2117474",
     "DISTRIBUCION_INICIAL_MANIFEST.json": "8513def4c3fa1a22a1639a944150a232d681066a69b75fda951be35fef65d858",
     "README.md": "12f462c9be993084d65f1e3f3f075994e3d4e74225bd1c950323fbd0d4e7779c",
     "assets/plotly-4.1.1.min.js": "3b6e15d45dbb7fca5bd2094291e961ddc5472cd887009e6009a56dab668d721f",
