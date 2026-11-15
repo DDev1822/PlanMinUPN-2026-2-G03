@@ -1,0 +1,52 @@
+{
+  "project": {
+    "group": "G03",
+    "name": "Cerro Azul",
+    "project_id": "cerro_azul",
+    "dataset": "DS01",
+    "release": "EXP03",
+    "synthetic_data": true
+  },
+  "source": {
+    "repo": "https://github.com/DDev1822/PlanMinUPN-2026-2-G03",
+    "branch": "main",
+    "commit": "42e3bf8c13345cdfb8c22519af0185d9ac0a5cc5"
+  },
+  "exploration": {
+    "holes": 32,
+    "survey": 208,
+    "assays": 3619,
+    "lithology_intervals": 95,
+    "density_observations": 290,
+    "topography_points": 218112
+  },
+  "compositing": {
+    "target_length_m": 2,
+    "total": 3632,
+    "full": 3579,
+    "residual": 53,
+    "example": {
+      "hole_id": "CA-C01-007",
+      "contact_m": 53
+    }
+  },
+  "model": {
+    "block_size_m": [
+      25,
+      25,
+      10
+    ],
+    "block_count": 29952,
+    "topography": {
+      "ROCK": 16965,
+      "PARTIAL": 1532,
+      "AIR": 11455
+    },
+    "lithology": {
+      "ASSIGNED": 15897,
+      "UNKNOWN/UNASSIGNED": 14055
+    },
+    "professional_reserves_declared": false,
+    "quantitative_estimates_available": true
+  }
+}
